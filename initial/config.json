@@ -1,0 +1,6 @@
+{
+  "example": {
+    "vars": ["name"],
+    "dir": "src"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules
+.husky
+.github
+test
+.editorconfig
+.eslintignore
+.eslintrc.js
+jest.config.js
+tsconfig.json
+.idea
+.vscode
